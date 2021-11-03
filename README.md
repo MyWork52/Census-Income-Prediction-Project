@@ -12,3 +12,12 @@ Problem Statement :
     In the dataset Income is the target variable which has 2 classes so it termed 
     to be s Classification Problem . Here the preddiction task is to determine 
     whether a person makes over $50k a year.
+ 
+    We use all three sets of controls in our weighting program and "rake" through
+    them 6 times so that by the end we come back to all the controls we use. The 
+    term estimate refers to population totals derived from CPS by creating  
+    "weighted tallies" of any specified socio-economic characteristics of the 
+    population. People with similar demographic characteristics should have similar 
+    weights. There is on eimportant caveat to remember about this statement . That
+    is that since the CPS sample is actually a collection of 51 stats samples each 
+    with its own probability of selection, the statement only spplies within state.
